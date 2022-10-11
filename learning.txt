@@ -1,0 +1,65 @@
+api design
+how internet work
+how web page work
+
+best practice you will follow for code review
+challenges you have faced in ur project ?. how you fixed or what soln u provided
+JSON API Standard
+how you will get the end user problem
+How to identify the end user problem.
+How the login scenario w.rt front end and backend
+have written any test case if not practice different test case for one particular.
+how the end - end business model works from gathering req.. to deploy the code..
+
+technical : how js works , es6 works and knowledge code deployment and test case and post prod monitoring tool
+
+git : code merge, branching strategy and code review and pr process.
+js : promise, fetch, async and es6 features
+
+
+
+====================
+
+https://www.youtube.com/watch?v=EBSdyoO3goc
+
+==============================================
+
+how git tag works
+how versioning part works
+how to pull other branch in you local
+
+how to use it and why we use it
+
+code review process
+    - Give a good description to understand what you done.
+    - Is code understandable ?
+    - Is there any duplicate code ?
+    - Is the function too big ? If yes, is the function or class having too many responsibilities?
+    - misspelled variable
+    - parameters passed in the wrong order or unused parameters
+    - use snake_case vs camelCase vs PascalCase
+
+
+
+Architecture
+    The code should follow the defined architecture.
+
+        Separation of Concerns followed
+            Split into multiple layers and tiers as per requirements (Presentation, Business and Data layers).
+            Split into respective files (HTML, JavaScript and CSS).
+        Code is in sync with existing code patterns/technologies.
+        Design patterns: Use appropriate design pattern (if it helps), after completely understanding the problem and context.
+
+
+microfrontend: Microfrontends are especially useful when we have projects with dozens of developers working together in a large business domain and want to reduce complexity by splitting into multiple subdomains, independently deploying different parts of applications without overloading communication and coordination between teams.
+
+qa test in frontend 
+
+architecture of the web application
+    Monolithic (Single Codebase)
+    Microservices
+        Advantages: Isolation, Scalability, Flexibility, Simplified Development
+    Serverless 
+        Advantages: Dont care about server, Pay for used server spaced , tech support.
+
+challenge faced during project 
