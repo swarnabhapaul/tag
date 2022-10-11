@@ -28,7 +28,11 @@ how git tag works
 how versioning part works
 how to pull other branch in you local
 
+-------
+
 how to use it and why we use it
+
+------
 
 code review process
     - Give a good description to understand what you done.
@@ -39,7 +43,7 @@ code review process
     - parameters passed in the wrong order or unused parameters
     - use snake_case vs camelCase vs PascalCase
 
-
+-----
 
 Architecture
     The code should follow the defined architecture.
@@ -50,8 +54,11 @@ Architecture
         Code is in sync with existing code patterns/technologies.
         Design patterns: Use appropriate design pattern (if it helps), after completely understanding the problem and context.
 
+-----
 
 microfrontend: Microfrontends are especially useful when we have projects with dozens of developers working together in a large business domain and want to reduce complexity by splitting into multiple subdomains, independently deploying different parts of applications without overloading communication and coordination between teams.
+
+----
 
 qa test in frontend 
 
